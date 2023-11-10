@@ -6,5 +6,4 @@ Perceptron.ipynb - builds a perceptron in Python to perform handwriting recognit
 
 NeuralNet.ipynb - builds a multi-layer perceptron in Python with various activation functions.
 
-This was part my favourite assignment during my Msc. 
 
